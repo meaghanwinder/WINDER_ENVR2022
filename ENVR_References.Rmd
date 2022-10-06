@@ -1,0 +1,12 @@
+---
+title: "An exploration of the impact of sampling regime on the modeling of occupancy dynamics"
+output: github_document
+bibliography: bibliography.bib
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# References
